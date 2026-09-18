@@ -1,14 +1,19 @@
+# Superstore Sales & Business Performance Dashboard
 
-### Business Analyst | Data Analyst
+## Overview
+Interactive Excel dashboard built on the Global Superstore dataset (51,290 records, 2011–2014) — turning manual, error-prone reporting into an automated, refreshable business report.
 
-I specialize in transforming raw, complex business data into actionable insights through automated dashboards, structured requirement gathering, and analytical decision-making.
+## Tools
+Excel Power Query · Pivot Tables & Charts · KPI Cards · Slicers
 
-### Skills & Tools
- **Analytics & Visualization:** Microsoft Excel (Power Query, Dashboards), Power BI, SQL
- **Business Analysis:** BRD Authoring, AS-IS/TO-BE Process Mapping, User Stories, Stakeholder Communication
- **Methodologies:** Data Cleaning (ETL), Agile/Scrum basics, Requirement Elicitation
+## Workflow
+BRD & user stories → AS-IS/TO-BE mapping → Power Query cleaning → Pivot analysis → KPI dashboard → validation
 
-### Highlighted Projects
-**[Sales & Business Performance Dashboard](./link-to-your-repo)**
-   Built an automated Excel dashboard reducing reporting time from days to instant refresh. Includes BRD and User Stories documentation.
+## Dashboard Features
+KPI cards · Sales by Region · Sales/Profit by Category · Yearly Trend · Top 10 Customers · Region/Category/Year slicers
 
+## Files
+`Excel_Dashboard.xlsx` · `Business_Requirement_Document.docx` · `Storytelling_of_project.docx`
+
+## Skills Demonstrated
+BRD Documentation · AS-IS/TO-BE Mapping · Power Query · Pivot Tables · KPI Dashboard Design · Business Storytelling
